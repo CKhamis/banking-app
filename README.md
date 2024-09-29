@@ -19,20 +19,20 @@ Our banking app was created using the Java Swing library and an MVC pattern with
 ## Login Page
 This page allows the user to login or create an  account.
 
-![](images/loginpage.png)
+![](screenshots/loginpage.png)
 ## Home Page
 Once the user logs in or creates account, they are prompted to the home page where they can see an overview of all of thier accounts. Under each account, there is a details button that once clicked, will lead you to the respective pages.
 
-![](images/homepage.png)
+![](screenshots/homepage.png)
 ## Checkings Account Page
 The checkings account page allows for the user to deposit or withdraw from their checkings account. In addition, the user can transfer money from the checkings account to the savings account.
 
-![](images/checkingsaccount.png)
+![](screenshots/checkingsaccount.png)
 ## Savings Account Page
 The savings account page allows for the user to deposit or withdraw from their savings account. In addition, the user can transfer money from the savings account to the checkings account.
 
-![](images/savingsaccount.png)
+![](screenshots/savingsaccount.png)
 ## Credit Card Account Page
 The credit card page is where the user can see their credit card balance. They have the option to pay off the balance by entering an amount to pay off. 
 
-![](images/creditcardaccount.png)
+![](screenshots/creditcardaccount.png)
